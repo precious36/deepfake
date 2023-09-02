@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "334330178934",
+    "project_id": "unmask-31026",
+    "storage_bucket": "unmask-31026.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334330178934:android:58dfa396ff0a2b5cc09e57",
+        "android_client_info": {
+          "package_name": "com.example.deepfake"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "334330178934-5u1i7v9ss7fp5apqp94g0em22jtl5nu8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSIn62TpaC-Og-QUsjTCQ5xrjXMBU4KfM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "334330178934-5u1i7v9ss7fp5apqp94g0em22jtl5nu8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
